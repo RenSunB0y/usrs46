@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{423DE5B0-D009-47C8-853E-72964590C7C2}|ConsoleApp1.csproj|c:\\users\\ravap\\usrs46\\consoleapp1\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423DE5B0-D009-47C8-853E-72964590C7C2}|ConsoleApp1.csproj|solutionrelative:de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{423DE5B0-D009-47C8-853E-72964590C7C2}|ConsoleApp1.csproj|c:\\users\\ravap\\usrs46\\consoleapp1\\propri\u00E9taire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423DE5B0-D009-47C8-853E-72964590C7C2}|ConsoleApp1.csproj|solutionrelative:propri\u00E9taire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "De.cs",
+              "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\De.cs",
+              "RelativeDocumentMoniker": "De.cs",
+              "ToolTip": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\De.cs",
+              "RelativeToolTip": "De.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:12:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Piece.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Piece.cs",
               "RelativeDocumentMoniker": "Piece.cs",
@@ -50,12 +67,11 @@
               "RelativeToolTip": "Piece.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:36:46.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T18:36:46.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Propri\u00E9taire.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Propri\u00E9taire.cs",
               "RelativeDocumentMoniker": "Propri\u00E9taire.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Maison.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Maison.cs",
               "RelativeDocumentMoniker": "Maison.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Maison.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:25:29.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T18:25:29.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Terrain.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Terrain.cs",
               "RelativeDocumentMoniker": "Terrain.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Terrain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:24:04.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T18:24:04.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Bien.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Bien.cs",
               "RelativeDocumentMoniker": "Bien.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "Bien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T18:23:39.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T18:23:39.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ravap\\usrs46\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -115,8 +128,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T17:46:53.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T17:46:53.418Z"
             }
           ]
         }
